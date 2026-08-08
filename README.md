@@ -1,4 +1,4 @@
 # OrangeHRM-Automation
-Adrian-Pramudya
+Adrian Aditya-Pramudya Widiakso
 
 Projek baru OrangeHRM
